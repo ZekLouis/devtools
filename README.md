@@ -29,4 +29,4 @@ Your server is available on (by default) `http://localhost:8080`
 4. b. Run prod
 
 It will build and compile every required files without source map
-Your finished project is ready to be published and available in `/dist/`# devtools
+Your finished project is ready to be published and available in `/dist/`
